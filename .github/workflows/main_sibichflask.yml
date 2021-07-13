@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'sibichflask'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_eebff5eda86c49d4873eb7410f0dffd2 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_45a2effd04534bfe9fab58f5377f05f9 }}
