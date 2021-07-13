@@ -1,2 +1,3 @@
 livenv/
 venv/
+__pycache__/
